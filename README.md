@@ -37,10 +37,9 @@
 
 ### 🚀 Projects
 
-- 🎬 [**Film Vault**](https://github.com/your-username/film-vault): Explore, search, and manage movies with a watchlist using TMDB API.
-- 🛒 [**E-Ration Management**](https://github.com/your-username/e-ration): A web platform for digital ration orders & inventory updates.
-- 🔐 Login System (Spring Boot + MySQL): Secure user authentication with session management.
-- 🌦️ Weather Prediction Interface (Coming Soon): Allows users to choose location and get weather-based predictions.
+- 🎬 [**Film Vault**](https://github.com/gurumoorthi-r/Film_Vault_Project_ReactJs): Explore, search, and manage movies with a watchlist using TMDB API.
+- 🛒 [**E-Ration Management**](https://github.com/gurumoorthi-r/E-Ration-Project): A web platform for digital ration orders & inventory updates.
+- 
 
 ---
 
@@ -52,19 +51,11 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurumoorthi-r&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=gurumoorthi-r&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
----
 
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurumoorthi-r-ceg2022/)  
-Email: **your-email@example.com**
+Email: **gurumoorthirajakumar11@gmail.com**
 
 
 <!---
