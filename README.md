@@ -39,7 +39,6 @@
 
 - 🎬 [**Film Vault**](https://github.com/gurumoorthi-r/Film_Vault_Project_ReactJs): Explore, search, and manage movies with a watchlist using TMDB API.
 - 🛒 [**E-Ration Management**](https://github.com/gurumoorthi-r/E-Ration-Project): A web platform for digital ration orders & inventory updates.
-- 
 
 ---
 
