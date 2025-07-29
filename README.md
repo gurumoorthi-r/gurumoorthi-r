@@ -46,7 +46,7 @@
 
 ### 🎯 Goals
 
-- 🌱 Currently learning: Advanced backend systems, Spring Security, and system design
+- 🌱 Currently learning: Data Structures and Algorithms, Advanced backend systems, Web development, and system design
 - 💼 Seeking: Internship/full-time opportunities in web development and backend engineering
 - 🤝 Open to: Collaborations, open-source contributions, and hackathons
 
@@ -63,7 +63,7 @@
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurumoorthi-r-ceg2022/)  
 Email: **your-email@example.com**
 
 
